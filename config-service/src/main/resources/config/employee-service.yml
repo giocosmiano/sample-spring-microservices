@@ -1,10 +1,10 @@
 server:
-  port: 8090
+  port: 18090
 
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8061/eureka/
+      defaultZone: http://localhost:18061/eureka/
       
 logging:
   pattern: 
