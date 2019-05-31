@@ -6,7 +6,7 @@
     API Gateway pattern using a new project inside Spring Cloud: Spring Cloud Gateway
     Correlating logs with Spring Cloud Sleuth
 
-![alt text](spring-cloud-2.png)
+![alt text](spring-cloud-1.png)
 
 
 - [Discovery Service](http://localhost:18061/)
